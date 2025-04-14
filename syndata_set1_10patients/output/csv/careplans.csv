@@ -1,0 +1,25 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+8e986f5a-00df-41b5-e913-f59015d06e16,2016-05-06,2016-08-26,ab0cf39c-43a4-4eb4-1375-984c6a0fade2,793a8090-427e-7ac8-aca7-dfbba0d4a71b,385691007,Fracture care (regime/therapy),33737001,Fracture of rib (disorder)
+c166c9bb-18df-e1fa-effb-dfff88de65af,2017-10-20,2017-11-25,ecce4a02-a447-2126-cc46-e7790a508389,2bee2caa-15ff-56d5-db67-7ee98491fa4a,408869004,Musculoskeletal care (regime/therapy),,
+d798dc4b-9a23-6cc6-9079-cfea3e2e1730,2017-01-18,2017-02-04,d611fb6a-701b-7ffb-68de-20cfea0a223f,51e1a997-3cfc-bc2d-715b-ce057aa5df38,225358003,Wound care (regime/therapy),284549007,Laceration of hand (disorder)
+f7758f24-9992-d0f3-7394-e5357524f926,2020-07-08,2020-08-17,ab0cf39c-43a4-4eb4-1375-984c6a0fade2,94001d13-e10e-baac-218f-589d6a4124f7,773513001,Physiotherapy care plan (record artifact),70704007,Sprain of wrist (disorder)
+d94a99b9-04dd-5656-85a1-887e284f2d14,2022-09-21,2022-10-07,ecce4a02-a447-2126-cc46-e7790a508389,65688934-4f30-d618-c582-4818ceba1b56,225358003,Wound care (regime/therapy),370247008,Facial laceration (disorder)
+4183d055-67d6-7a37-54ab-f1005cff11de,2016-10-18,2016-10-25,95fc45d3-694a-e855-f5c5-b27f62006b65,a99cddc4-73f2-bdf1-4325-47261fb83281,53950000,Respiratory therapy (procedure),,
+df34d685-0a15-dbd7-4b01-1285cbf54bf4,2021-11-04,2022-01-07,9b10cd86-f77c-1afd-958f-8236ec49d73c,4a54816b-1036-3513-c39a-1069acd5795b,47387005,Head injury rehabilitation (regime/therapy),62106007,Concussion with no loss of consciousness (disorder)
+7f1ba4b2-4f18-ef48-4e38-a49a73d902ae,2016-05-15,,2b72f634-7126-9a8c-0abf-1314e9fc1d8f,205e5d30-98a9-602b-c31d-42a56186d255,735985000,Diabetes self management plan (record artifact),714628002,Prediabetes (finding)
+3b1f4dc1-91a8-a572-ca40-4edde9f58382,2016-12-06,2017-01-26,2b72f634-7126-9a8c-0abf-1314e9fc1d8f,0d31f4e1-18fe-059b-0122-8a480132e27c,133901003,Burn care (regime/therapy),403191005,Partial thickness burn (disorder)
+1d4cc53b-8dd1-05dc-7587-0a45f8d0b388,2018-10-21,2019-06-09,2b72f634-7126-9a8c-0abf-1314e9fc1d8f,d2b0f005-8d17-381b-c315-9484a8f83ad2,134435003,Routine antenatal care (regime/therapy),,
+dff31bcd-9100-8275-9ee2-010a0b90b1b3,2019-08-06,2019-08-23,2b72f634-7126-9a8c-0abf-1314e9fc1d8f,25a227f6-35ab-03ab-d0f7-1175bce8aa29,737471002,Minor surgery care management (procedure),,
+96a8a936-773f-4081-96db-9a2fce425040,2020-02-25,2020-03-08,2b72f634-7126-9a8c-0abf-1314e9fc1d8f,d4e0566d-b692-2576-1110-24d95784b6d6,53950000,Respiratory therapy (procedure),,
+b20d3f35-3690-0ddf-bc76-dbc35b13c7a8,2020-02-01,2020-03-24,7c116451-e7b2-0fbe-ac12-b5c7fc173689,7d444d28-e7c6-188f-ea7d-187b2d770825,385691007,Fracture care (regime/therapy),263172003,Fracture of mandible (disorder)
+b98ccc6d-45d2-a101-744a-9b30177571c7,2022-04-07,2022-08-04,7c116451-e7b2-0fbe-ac12-b5c7fc173689,0b06c755-0ee6-68d0-1429-a2a8e64f9225,385691007,Fracture care (regime/therapy),58150001,Fracture of clavicle (disorder)
+7f8399c9-0edb-8404-5ed3-992d169ed2da,2023-05-24,,7c116451-e7b2-0fbe-ac12-b5c7fc173689,bf516b13-625e-5248-3c5f-4ab5b3e14f5e,443402002,Lifestyle education regarding hypertension (procedure),59621000,Essential hypertension (disorder)
+fd4cfac4-84c4-f7f5-e713-a765e788f7fa,2024-09-23,,7c116451-e7b2-0fbe-ac12-b5c7fc173689,9d744f1f-bb65-01ae-b5fd-caa2d3fd70eb,53950000,Respiratory therapy (procedure),,
+f3f49d5b-ea3f-2969-da52-30223705f95b,1995-11-12,,41bc5809-ccdf-2215-dc4f-83f4520ada66,af3433a7-284c-4abc-2b56-1557495826f7,735985000,Diabetes self management plan (record artifact),714628002,Prediabetes (finding)
+1d01e04b-924b-3a48-21e7-e883c3629224,2001-11-18,,41bc5809-ccdf-2215-dc4f-83f4520ada66,bda6ce5f-c5aa-b376-144f-09437b9944f5,443402002,Lifestyle education regarding hypertension (procedure),59621000,Essential hypertension (disorder)
+14adbad1-4c25-e551-63d4-b6eb1df23d96,2009-09-25,,41bc5809-ccdf-2215-dc4f-83f4520ada66,73296bf7-cd12-9924-cc37-0db69a5e72ae,734163000,Care plan (record artifact),78275009,Obstructive sleep apnea syndrome (disorder)
+84197b16-db87-b454-68fc-2c02227c5069,2022-07-07,2022-08-26,41bc5809-ccdf-2215-dc4f-83f4520ada66,29d926c4-ec5d-380c-f27c-8fb5a67bbb74,408869004,Musculoskeletal care (regime/therapy),,
+12578273-ed34-f804-e6ab-e11c31a02a06,2005-12-29,,fde5557b-6e41-d62e-a083-1b7a61c0b0f5,9c7b9969-a3ad-0e6b-5396-7cbc027ceff3,443402002,Lifestyle education regarding hypertension (procedure),59621000,Essential hypertension (disorder)
+109eb1af-1190-7233-c144-85e4dda75ee9,2010-01-27,,fde5557b-6e41-d62e-a083-1b7a61c0b0f5,326c1147-41cd-e874-4d5f-2f3e51225ef6,735985000,Diabetes self management plan (record artifact),714628002,Prediabetes (finding)
+454cbc87-74ea-1448-a7f7-10cb0bbb24b3,2023-12-06,2024-01-17,fde5557b-6e41-d62e-a083-1b7a61c0b0f5,ef6154a7-7baa-799e-fded-651e1acb84d0,53950000,Respiratory therapy (procedure),,
+e669fc4f-15bf-793d-f555-30288efdcacd,2024-10-08,2024-10-24,fde5557b-6e41-d62e-a083-1b7a61c0b0f5,a95b3133-7b50-973c-12dc-af6513b332f3,225358003,Wound care (regime/therapy),283371005,Laceration of forearm (disorder)
